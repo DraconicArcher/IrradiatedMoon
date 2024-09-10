@@ -1,0 +1,11 @@
+{
+	"enhancedcelestials.notification.irradiated_moon.rise": "The \"Irradiated Moon\" rises... Stay Underground!",
+    "enhancedcelestials.notification.irradiated_moon.set": "The \"Irradiated Moon\" sets...",
+  "enhancedcelestials.name.zombie_moon": "Irradiated Moon",
+	"enhancedcelestials.notification.super_irradiated_moon.rise": "The \"Super Irradiated Moon\" rises... The Moon is a Deadly Laser.",
+    "enhancedcelestials.notification.super_irradiated_moon.set": "The \"Super Irradiated Moon\" sets...",
+  "enhancedcelestials.name.super_zombie_moon": "Super Irradiated Moon",
+  "item.irradiatedmoon.lapis_apple": "Lapis Apple",
+  "effect.irradiatedmoon.irradiated": "Irradiated",
+  "effect.irradiatedmoon.irradiatedii": "Radiation Poisoned"
+}
